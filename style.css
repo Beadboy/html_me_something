@@ -1,0 +1,71 @@
+body {
+        max-width: 1000px;
+        margin: 0 auto;
+        background-color: black;
+}
+
+header, main, footer {
+        background-color: blue;
+}
+
+
+h1 {
+        text-align: center;
+}
+
+nav ul {
+        text-align: center;
+}
+
+.sections {
+        display: inline-block;
+        margin-right: 3em;
+        text-align: center;
+}
+
+main ul li {
+        display: inline-block;
+        margin-right: 0.5em;
+        text-align: center;
+}
+
+header {
+        font-size: 1.05em
+}
+
+img {
+        width: 100%;
+        max-width: 100%;
+}
+
+#padding {
+        padding: 1.875em 0;
+}
+
+a:link {
+        color: yellow;
+        text-decoration: none;
+}
+
+footer {
+        text-align: center;
+}
+
+figure {
+        margin: 0;
+        padding-left: 20px;
+        padding-right: 20px;
+}
+
+h1, h2 {
+        margin: 0;
+}
+
+.intros {
+        padding-left: 20px;
+        padding-right: 20px;
+}
+
+#meh {
+        text-align: center;
+}
