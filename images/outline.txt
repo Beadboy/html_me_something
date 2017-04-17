@@ -1,0 +1,22 @@
+Title:
+    How Pacman is a GOD among men
+
+Sections:
+    History
+        Math[]
+        life[]
+        jewel[]
+        quote & philosophy[]
+        sword[]
+    Pacman's True Power
+        Google's Offering
+        The Pellets(show how authority is powerless against him)
+        The Ghosts(show how even the afterlife quivers before him)
+        No Dimensional Bounds 
+        Control Over Reality
+    The Almighty Shrug
+
+
+CSS
+
+add "way to fucking big" ID to shrug.png and make it fit the screen.
